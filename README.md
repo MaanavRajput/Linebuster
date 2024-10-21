@@ -40,8 +40,11 @@ Create a new branch for your feature or bug fix.
 Commit your changes and push the branch.
 Submit a pull request.
 
+License
+This project is licensed under the GNU GENERAL PUBLIC LICENSE.
+
 Contact
 For any inquiries or feedback, please contact:
 
 Email: maanavrajputdr16@gmail.com
-GitHub: MaanavRajput
+GitHub: MaanavRajput.
